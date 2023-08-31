@@ -25,7 +25,7 @@
   
    :zap: No meu tempo livre gosto de jogar, ler e assistir filmes;
   
-   :mailbox: Entre em contato comigo com o link abaixo!
+   :mailbox: Entre em contato comigo nos links abaixo:
  
    <p align="left">
 
