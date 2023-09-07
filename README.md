@@ -17,17 +17,17 @@
 ---
 
 <p>
-   Sou um desenvolvedor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> brasileiro!
+   I'm a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from brazil!
    
-   :telescope: Venho trabalhando de freelancer;
+   :telescope: Actually, I have been working as a freelancer;
   
-   :seedling: Explorando novas formas de aprender. Atualmente cursando 2° semestre de Sistemas de Informação na UNIFTC - Faculdade de ciências e tecnologia;
+   :seedling: Exploring new ways to learn. For now, I'm a student at FTC - Faculty of Science and Technology of Itabuna;
   
-   :zap: No meu tempo livre gosto de jogar, ler e assistir filmes;
+   :zap: As hobbies, I like to play video games, watch movies, and read science fiction books;
   
-   :mailbox: Entre em contato comigo nos links abaixo:
+   :mailbox: Contact me through the links below:
  
-   <p align="left">
+   <p align="left"> 
 
   <a href="https://www.linkedin.com/in/fernandogbs/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white/"/></a>
