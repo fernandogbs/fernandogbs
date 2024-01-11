@@ -12,7 +12,7 @@
 ---
 
 <p>
-   Student of Information Systems and Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, my name is Fernando
+   Student of Information Systems and Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
    
    :telescope: Freelancer Developer by Day, Creative Explorer by Night
   
@@ -52,6 +52,7 @@
   <a href="https://www.linkedin.com/in/fernandogbs/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white/"/>
   </a>
+   
   <a href="https://instagram.com/fernando.sql?igshid=OGQ5ZDc2ODk2ZA==" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
   </a>
