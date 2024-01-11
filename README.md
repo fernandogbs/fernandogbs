@@ -12,14 +12,11 @@
 ---
 
 <p>
-   I'm a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from brazil!
+   Student of Information Systems and Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, my name is Fernando
    
-   :telescope: Actually I'm a freelancer developer;
+   :telescope: Freelancer Developer by Day, Creative Explorer by Night
   
-   :seedling: ;
-  
-   :zap: As hobbies, I like to play video games, watch movies, and read science fiction books;
-  
+   :seedling: Coding Enthusiast
 </p>
 
 ---
