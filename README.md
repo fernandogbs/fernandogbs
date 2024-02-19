@@ -1,4 +1,3 @@
-👋 hihi!
 ### Technologies & Tools
 - **Languages:** C/C++, Java, JavaScript, Python
 - **Databases:** SQLite, MySQL, MongoDB
