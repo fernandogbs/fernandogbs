@@ -10,6 +10,7 @@
   A passionate student of programming and technology. I like to know how things work and how to make them work. My coding journey started in 2019, and since then I've been learning and improving my skills.
 </div>
 <br><br>
+<br><br>
 <div>
   <img src="221575.gif" height="200" align="right">
   <div>
