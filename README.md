@@ -20,7 +20,7 @@
 - 🇧🇷 I'm from [Brazil](https://en.wikipedia.org/wiki/Brasil) with S;
 - ♨️ My main stacks are Java, C++ and TypeScript;
 - 📚 I'm currently learning about Elixir and functional programming;
-- 👨🏻‍🎓 Actually, I'm a student at [FTC](https://www.ftc.br/) and I'm studying Information Systems;
+- 👨🏻‍🎓 Actually, I'm a student at [FTC](https://www.ftc.br/);
 - 🎮 I love playing games, my favourite games is Valorant and Minecraft;
 - 📫 You can reach me at: <a href="mailto:contato.fernandogbs@gmail.com">contato.fernandogbs@gmail.com</a>.
   </div>
