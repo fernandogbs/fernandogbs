@@ -18,7 +18,7 @@
 ### 💭 A few things about me
 
 - 🇧🇷 I'm from [Brazil](https://en.wikipedia.org/wiki/Brasil) with S;
-- ♨️ My main stacks are Java, C++ and TypeScript;
+- ♨️ My main stacks are Java and TypeScript;
 - 📚 I'm currently learning about Elixir and functional programming;
 - 👨🏻‍🎓 Actually, I'm a student at [FTC](https://www.ftc.br/);
 - 🎮 I love playing games, my favourite games is Valorant and Minecraft;
