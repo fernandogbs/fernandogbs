@@ -18,8 +18,7 @@
 ### 💭 A few things about me
 
 - 🇧🇷 I'm from [Brazil](https://en.wikipedia.org/wiki/Brasil);
-- ♨️ My main stacks are TypeScript;
-- 📚 I'm currently learning about Elixir and functional programming;
+- ♨️ My main stacks are Java and TypeScript;
 - 👨🏻‍🎓 Actually, I'm a student at [FTC](https://www.ftc.br/);
 - 🎮 I love playing games, my favourite game is Valorant;
 - 📫 You can reach me at: <a href="mailto:contato.fernandogbs@gmail.com">contato.fernandogbs@gmail.com</a>.
@@ -35,7 +34,6 @@
   <p>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -45,7 +43,6 @@
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" />
   </p>
