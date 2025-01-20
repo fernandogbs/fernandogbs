@@ -21,7 +21,7 @@
 - ♨️ My main stacks are Java and TypeScript;
 - 👨🏻‍🎓 Actually, I'm a student at [FTC](https://www.ftc.br/);
 - 🎮 I love playing games, my favourite game is Valorant;
-- 📫 You can reach me at: <a href="mailto:contato.fernandogbs@gmail.com">contato.fernandogbs@gmail.com</a>.
+- 📫 You can reach me at: <a href="mailto:contato.fernandogbs@gmail.com">contato.fernandogbs@gmail.com</a>
   </div>
 </div>
 
