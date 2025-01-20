@@ -7,7 +7,7 @@
     height="170"
     align="left">
   <h3>Who I am?</h3>
-  A passionate student of programming and technology. I like to know how things work and how to make them work. My coding journey started in 2019, and since then I've been learning and improving my skills.
+  A passionate student of programming and technology.
 </div>
 <br><br>
 <br><br>
@@ -17,11 +17,11 @@
 
 ### 💭 A few things about me
 
-- 🇧🇷 I'm from [Brazil](https://en.wikipedia.org/wiki/Brasil) with S;
-- ♨️ My main stacks are Java and TypeScript;
+- 🇧🇷 I'm from [Brazil](https://en.wikipedia.org/wiki/Brasil);
+- ♨️ My main stacks are TypeScript;
 - 📚 I'm currently learning about Elixir and functional programming;
 - 👨🏻‍🎓 Actually, I'm a student at [FTC](https://www.ftc.br/);
-- 🎮 I love playing games, my favourite games is Valorant and Minecraft;
+- 🎮 I love playing games, my favourite game is Valorant;
 - 📫 You can reach me at: <a href="mailto:contato.fernandogbs@gmail.com">contato.fernandogbs@gmail.com</a>.
   </div>
 </div>
