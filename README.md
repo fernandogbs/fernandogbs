@@ -3,16 +3,12 @@
 </h2>
 
 <div align="left">
-  <img src="sololeveling.jpg"
-    height="170"
-    align="left">
   <h3>Who I am?</h3>
   A passionate student of programming and technology.
 </div>
 <br><br>
 <br><br>
 <div>
-  <img src="221575.gif" height="200" align="right">
   <div>
 
 ### 💭 A few things about me
