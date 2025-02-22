@@ -11,10 +11,9 @@
 ### 💭 A few things about me
 
 - 🇧🇷 I'm from [Brazil](https://en.wikipedia.org/wiki/Brasil);
-- ♨️ My main stacks are Java and TypeScript;
+- ♨️ My main stacks are Java and JavaScript;
 - 👨🏻‍🎓 Actually, I'm a student at [FTC](https://www.ftc.br/);
-- 🎮 I love playing games, my favourite game is Valorant;
-- 📫 You can reach me at: <a href="mailto:contato.fernandogbs@gmail.com">contato.fernandogbs@gmail.com</a>
+- 📫 You can reach me at: <a href="mailto:contato.fernandogbs@gmail.com">contato.fernandogbs@gmail.com</a> or <a href="mailto:httpfernandofg@gmail.com">httpfernandofg@gmail.com</a>
   </div>
 </div>
 
