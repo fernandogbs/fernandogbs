@@ -6,10 +6,7 @@
   <h3>Who I am?</h3>
   A passionate student of programming and technology.
 </div>
-<br><br>
-<br><br>
 <div>
-  <div>
 
 ### 💭 A few things about me
 
